@@ -1,0 +1,22 @@
+name: Pull changes
+
+on:
+  push:
+    branches:
+    - main
+  pull_request:
+    branches:
+    - main
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+        - name: pull using ssh
+          uses: appleboy/ssh-action@master
+          with:
+            host: ${{ secrets.HOST }}
+            username: ${{ secrets.USERNAME }}
+            KEY: ${{ secrets.KEY }}
+            port: ${{ secrets.PORT }}
+            script: cd /mnt/volume_tor1_01/hbp/markdown/blogs && git pull

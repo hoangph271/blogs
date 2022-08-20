@@ -1,5 +1,5 @@
 <!--
-cover_image: /markdown/blogs/snake-game.png
+cover_image: /api/v1/files/raw?path=/home/usesync/useClouded/FTb%20QL/2022_18_08/000066.JPG
 title: A non-zero-sum game
 dob: 
 author: @HBP

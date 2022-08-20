@@ -1,16 +1,16 @@
 <!--
 cover_image: /markdown/blogs/snake-game.png
-title: Non-zero-sum games
+title: A non-zero-sum game
 dob: 
 author: @HBP
 tags: arrival-2016, hhp
 -->
 
-### Non zero-sum games
+### A non zero-sum game
 
-> I learned it from the movie - [*Arrival (2016)...!*](https://www.imdb.com/title/tt2543164/)
+> I learned it from [*the movie Arrival (2016)*](https://www.imdb.com/title/tt2543164/)...!
 
-So, what are those...?
+So, what is it...?
 
 # First of all, what is a `zero-sum game` (`zsg`)...?
 
@@ -20,7 +20,7 @@ So, what are those...?
 - A *League of Legends* match is a `zsg`, you either win or loose, there is no in-between...!
 - `Trading` is a `zsg`, you buy it high, another one sell it low, not everyone is making money, really...!
 
-- Chess, football, racing, `tick-tack-toe`,... anything that requires a loser to create a winner - is a `zsg`...!
+- Chess, football, racing, *tic-tac-toe*,... anything that requires a loser to create a winner - is a `zsg`...!
 - The *Cold War*...!
 
 It's evevy where around me, and I kinda accept the fact that it's the only kind of game that exists...!
@@ -29,4 +29,4 @@ It's evevy where around me, and I kinda accept the fact that it's the only kind 
 
 # So, what is a `non-zero-sum game` (`nzsg`)...?
 
-Well at first I found it quite difficult to imagine `nzsg` in real life...?
+Well at first I found it quite difficult to imagine `nzsg` in real life...!

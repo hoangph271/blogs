@@ -8,6 +8,8 @@ tags: arrival-2016, hhp
 
 ### A non zero-sum game
 
+![A picture of a nail](https://alpha-sneu.xyz/api/v1/files/raw?path=/home/usesync/useClouded/FTb%20QL/2022_18_08/000066.JPG)
+
 > I learned it from [*the movie Arrival (2016)*](https://www.imdb.com/title/tt2543164/)...!
 
 So, what is it...?

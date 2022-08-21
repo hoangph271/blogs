@@ -1,5 +1,5 @@
 <!--
-cover_image: /api/v1/files/raw?path=/home/usesync/useClouded/FTb%20QL/2022_18_08/000066.JPG
+cover_image: /api/v1/files/preview/FTb%20QL/2022_18_08/000066.JPG
 title: A non-zero-sum game
 dob:
 author: @HBP
@@ -8,7 +8,7 @@ tags: arrival-2016, hhp
 
 ### A non-zero-sum game
 
-<img src="https://alpha-sneu.xyz/api/v1/files/preview/FTb%20QL/2022_18_08/000066.JPG" alt="Just a nail" />
+<img src="/api/v1/files/preview/FTb%20QL/2022_18_08/000066.JPG" alt="Just a nail" style="max-height: 340px" />
 
 > I learned it from the movie Arrival (2016)...!
 > 

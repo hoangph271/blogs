@@ -49,13 +49,16 @@ After all, each game you play may make you a better player.
 
 - Stock trading is NOT an `nzsg`, but stock investing is - by putting your money consistently on a company, you benefit from the company's growth in productivity.
 
-- Well, the Cold War is still a pretty giant zero-sum game, but if you consider its effect on history, it caused so many shifts in the evolution of mankind, in our cultures, technology, our values, and it at least taught our leaders a big lesson (or maybe it didn’t).
+- Well, the Cold War is still a pretty giant zero-sum game, but if you consider its effect on history, it caused so many shifts in the evolution of mankind, in our cultures, technology, our values, and it at least taught our leaders a big lesson ~~(or maybe it didn’t)~~.
 
 > “War, war never changes” - *the Fallout series.*
 
 I find this concept pretty interesting, pretty much all of the examples above convince me that:
 
-> `nzsg` can be anything if you consider the long-term effect it has on all of us, how can you extract the value to benefit our life?
+> `nzsg` can be anything if you consider the long-term effect it has on all of us, how can you extract the value to benefit our life?  
+> 
+> Anything that can shift the outcome of your whole life, is a *non-zero-sum-game*.  
+> And if you keep stacking up, all the small meaningless changes will eventually become something way more valuable than the sum of its parts.
 
 ---
 

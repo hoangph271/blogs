@@ -6,16 +6,16 @@ author: @HBP
 tags: arrival-2016, hhp
 -->
 
-### A non-zero-sum game
+## A non-zero-sum game
 
-<img src="/api/v1/files/preview/FTb%20QL/2022_18_08/000066.JPG" alt="Just a nail" style="max-height: 340px" />
+<img src="https://alpha-sneu.xyz/api/v1/files/preview/FTb%20QL/2022_18_08/000066.JPG" alt="Just a nail" style="max-height: 251px;display: block;margin: auto;margin-bottom: 1.2rem;" />
 
 > I learned it from the movie Arrival (2016)...!
 > 
 
 So, what is it...?
 
-# First of all, what is a `zero-sum game` (`zsg`)...?
+### First of all, what is a `zero-sum game` (`zsg`)...?
 
 > A zero-sum game is a situation where, if one party loses, the other party wins, and the net change in wealth is zero.
 > 
@@ -34,12 +34,13 @@ It's everywhere around me, and I kinda accept the fact that it's the only kind o
 > it requires a loser to create a winner.
 > 
 
-# So, what is a `non-zero-sum game` (`nzsg`)...?
+---
 
-Well at first I found it quite challenging to imagine `nzsg` in real life.
+### So, what is a `non-zero-sum game` (`nzsg`)...?
 
-After all, how can everyone win?
-Doesn't that mean no one won...?
+> Well at first I found it quite challenging to imagine a `nzsg` in real life.  
+> After all, how can everyone win?  
+> Doesn't that mean no one won...?
 
 - *Gambling* is an `nzsg` if it becomes your career, you learn from it, plan for it, and work for the money you win.  
 After all, each game you play may make you a better player.
@@ -55,5 +56,7 @@ After all, each game you play may make you a better player.
 I find this concept pretty interesting, pretty much all of the examples above convince me that:
 
 > `nzsg` can be anything if you consider the long-term effect it has on all of us, how can you extract the value to benefit our life?
+
+---
 
 `// TODO: Conclusion...?`

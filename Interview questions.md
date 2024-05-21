@@ -1,0 +1,67 @@
+# Interview questions…!
+
+- JavaScript:
+    - Data types in JS…?
+    - What is event-driven; non-blocking IO…?
+    - What is the event loop…?
+    - Micro/macro task, `setTimeout(callback, 0)`…?
+    - Mutable/immutable…?
+    - Why `JavaScript`…?
+    What’s the difference, and what makes it fast…?
+    - Callback, `Promise`, `async`/`await`…?
+    - Prototypes and when should you use them…?
+    - `"use strict";`
+    - `let`/`var`/`const`, hoisting, and scope…?
+    - What are memory leaks, and how to prevent them…?
+    - Equal comparison in JS…?
+    - Object destructuring in JS…?
+    - The `this` keyword in JS…?
+        - The `this` keyword in arrow functions…?
+    - Arrow function, when to use…?
+        - The `arguments` variable…?
+    - Closure in JS…?
+    - Generator functions…!
+    - How do you assert if a `<Component />` is well-written & reusable…?
+- React:
+    - Why React, what is JSX, and why JSX…?
+    - Why hooks, and name some hooks you often use…?
+    - Why keys, and what if we use the index as the key…?
+    - What & why vDOM, and what makes it fast…?
+    Is it faster than the real DOM…?
+    - `Context` API…!
+    - HoC, render props…?
+    - How to handle CSS…?
+    - News in React 17…?
+    - `lazy` and `Suspense`…?
+    - `Portal` and `Fragment`…?
+    - `setState` is async…?
+    - `useCallback` vs `useMemo`…?
+    - `useEffect`, dependency array…?
+    - ReactNative…?
+- Vue.js:
+    - Fragment in Vue…?
+    - vDOM and real DOM…?
+    - Under the hood (JS Proxy), why can’t IE use Vue…?
+    - Nuxt.js, SSR…?
+    - Vue.js 3 vs 2…?
+    - Teleport...? <3
+    - Nếu muốn SPA nhưng thay đổi URL...!
+- Node.js:
+    - What is Node.js…?
+    - Some core modules…?
+    - How to handle CPU-heavy tasks…?
+    - Is Node.js slow, and why…?
+    - What is Node.js made of - and why is it portable…?
+- Web generals:
+    - Web APIs…?
+    - What is a Stream...?
+    - CORS errors and how to solve them…?
+    - Ask me anything, technical or not...!
+    - JWT...?
+    - localStorage, sessionStorage, Cookies...!
+    - How can you handle clients with different Browser/version/OS and permission/ES version and so on...?
+- Bonus questions:
+    - What are your favorite learning resources…?
+    - Learning plans…?
+    - What is an AST…?
+    - Anything that impressed you recently…?

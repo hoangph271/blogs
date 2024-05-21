@@ -44,8 +44,7 @@
     - Under the hood (JS Proxy), why can’t IE use Vue…?
     - Nuxt.js, SSR…?
     - Vue.js 3 vs 2…?
-    - Teleport...? <3
-    - Nếu muốn SPA nhưng thay đổi URL...!
+    - `<Teleport />`...?
 - Node.js:
     - What is Node.js…?
     - Some core modules…?
@@ -60,6 +59,7 @@
     - JWT...?
     - localStorage, sessionStorage, Cookies...!
     - How can you handle clients with different Browser/version/OS and permission/ES version and so on...?
+    - I have a SPA which renders everything client side, how can I update the URL when the user navigate around without moving everything to the server...!
 - Bonus questions:
     - What are your favorite learning resources…?
     - Learning plans…?
